@@ -1,0 +1,20 @@
+{
+  "name": "november-grind",
+  "version": "1.0.0",
+  "description": "This is a practise project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node readme.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorabh86/November-grind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorabh86/November-grind/issues"
+  },
+  "homepage": "https://github.com/sorabh86/November-grind#readme"
+}
